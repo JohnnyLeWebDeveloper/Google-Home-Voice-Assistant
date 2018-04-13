@@ -66,12 +66,11 @@ p{
 }
 
 #contact{
-  background: url(../img/image3.png);
-  padding: 40px;
-  color: #fff;
-  border-top: #333 7px solid;
-  border-bottom: #333 7px solid;
-  margin-top: 15px;
+  background:url(../img/image3.png);
+  padding:40px;
+  color:#fff;
+  border-top:#333 7px solid;
+  border-bottom:#333 7px solid;
 }
 
 footer{
